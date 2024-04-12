@@ -1,0 +1,45 @@
+*{
+    margin; 0;
+    padding; 0;
+    box-sizing; border-box;
+    font-family: sans-serif;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background color: black#212121;
+}
+container {
+    position: relative;
+}
+clock{
+    width: 300px;
+    height: 300px;
+     border-radius: 50px;
+     background-color: rgba(255, 255, 255, 0.1;);
+     border: 2px; solid rgba ( 255 255 255 0.25)
+     box ::shadow: 0px 0px 30 px rgba (0,0,0, 0.9);
+
+}
+
+clock span{
+    position: absolute
+    transfrom:rotet (calc(-300deg * var(-ii)));
+    display: inline-block;
+    font-size : 20px 
+
+}
+
+import java until*
+//java program to check weather enterd number is evvn or odd
+public clasds viod 
+pulic clas void main string args
+scanner sc new 
+input enter asn integer ::-moz-list-number
+ststem //
+//java ptogram to chenge the any number of data 
+gyaneshwar singh 
+my nmae id
